@@ -1,5 +1,5 @@
 # Conventional Commits
-# Fonte: [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/)
+## Fonte: [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ## Estrutura principal
 `<type>[optional scope]: <description>`  
